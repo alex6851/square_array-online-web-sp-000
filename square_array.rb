@@ -1,4 +1,4 @@
 require 'pry'
 def square_array(array)
-  array.each {|value| value**2 = value}
+  array.each {|value| value**2}
 end
